@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/jest-community/jest-logos/main/jest/jest.png" height="50" alt="Jest" />
+  <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" height="50" alt="Jest" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Microsoft Azure" />
   &nbsp;
