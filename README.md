@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="50" alt="Prisma" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" height="50" alt="TypeORM" />
+  <img src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" height="50" alt="TypeORM" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   &nbsp;
