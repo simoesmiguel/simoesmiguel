@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/static/img/logo.svg" height="50" alt="Prisma" />
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="50" alt="Prisma" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" height="50" alt="TypeORM" />
   &nbsp;
